@@ -1,0 +1,13 @@
+{
+  "name": "serverx-ofc-coming-soon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ServerX OFC Coming Soon landing page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
